@@ -5,7 +5,7 @@ public class book {
 //        定义Scanner类
         Scanner sc=new Scanner(System.in);
 //        设置管理员验证锁，只有输入管理员验证锁才可以注册管理员
-        String lock="邾正扬最帅";
+        String lock="123456";
 //        定义两个布尔类型的值用于判断是管理员登录还是用户登录
 //        默认值都为false，因为没有还未登录
         boolean msuccess=false;
